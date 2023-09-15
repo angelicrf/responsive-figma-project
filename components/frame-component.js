@@ -25,12 +25,12 @@ const FrameComponent = () => {
         <img
           className='self-stretch relative max-w-full overflow-hidden h-[235px] shrink-0 object-cover lg:self-stretch lg:w-auto md:self-stretch md:w-auto md:flex-1 md:h-auto sm:self-stretch sm:w-auto sm:h-auto'
           alt=''
-          src='/rectangle-1@2x.png'
+          src='rectangle-1@2x.png'
         />
         <img
           className='self-stretch relative max-w-full overflow-hidden h-[235px] shrink-0 object-cover lg:self-stretch lg:w-auto lg:flex-1 md:self-stretch md:w-auto md:flex-1 md:h-auto sm:self-stretch sm:w-auto sm:h-auto'
           alt=''
-          src='/rectangle-11@2x.png'
+          src='rectangle-11@2x.png'
         />
       </div>
     </div>
